@@ -1,0 +1,54 @@
+/*!
+Theme Name: Dream Travel
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: dream-travel
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+/*--------------------------------------------------------------
+# Variables
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Paritials
+--------------------------------------------------------------*/
+/*========== Genera ==========*/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*========== Header ==========*/
+.site-header {
+  background-color: #000;
+}
+.site-header .top-contact-info {
+  border-bottom: 1px solid rgba(255, 221, 0, 0.6);
+}
+.site-header .top-contact-info .row {
+  justify-content: space-between;
+  align-items: center;
+}
+.site-header .top-contact-info .social-medias {
+  display: flex;
+  list-style: none;
+}
+.site-header .top-contact-info .social-medias li {
+  margin-right: 30px;
+}
+.site-header .top-contact-info .social-medias li a i {
+  color: #fff;
+}
+.site-header .top-contact-info .divider {
+  border: 1px solid #FFC001;
+  width: 0;
+  height: 23px;
+}
+
+/*--------------------------------------------------------------
+# Media
+--------------------------------------------------------------*/

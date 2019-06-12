@@ -1,0 +1,29 @@
+/*========== Header ==========*/
+.site-header {
+	background-color: #000;
+	.top-contact-info {
+		border-bottom: 1px solid rgba(255, 221, 0, 0.6);
+		.row {
+			justify-content: space-between;
+			align-items: center;
+		}
+		.social-medias {
+			display: flex;
+			list-style: none;
+			li {
+				margin-right: 30px;
+				a i {
+					color: #fff;
+				}
+			}
+		.address {
+			
+		}
+		}
+		.divider {
+			border: 1px solid $yellow;
+			width: 0;
+			height: 23px;
+		}
+	}
+}
